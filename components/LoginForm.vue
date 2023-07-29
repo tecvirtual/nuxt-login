@@ -5,6 +5,10 @@ import { ref } from 'vue';
 const username = ref('');
 const password = ref('');
 
+async function login() {
+    return true;
+}
+
 </script> 
 <template>
     <form>

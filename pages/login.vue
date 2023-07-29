@@ -3,7 +3,7 @@
 definePageMeta({
     layout: "auth",
     auth: {
-        unauthenticatedOnly: false,
+        unauthenticatedOnly: true,
         navigateAuthenticatedTo: '/protected',
     },
 });
