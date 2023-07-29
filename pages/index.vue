@@ -1,6 +1,12 @@
 
 
 <template>
-    <h1>Index page</h1>
-</template>
 
+<!-- Jumbotron -->
+<div class="p-5 text-center bg-light" style="margin-top: 58px;">
+    <h1 class="text-3xl font-bold">Welcome home.</h1>
+  </div>
+  <!-- Jumbotron -->
+
+ 
+</template>
